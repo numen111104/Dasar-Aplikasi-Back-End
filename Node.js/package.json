@@ -1,0 +1,19 @@
+{
+  "name": "backendnode",
+  "version": "1.0.0",
+  "description": "Not yet",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Numenide",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4"
+  }
+}
