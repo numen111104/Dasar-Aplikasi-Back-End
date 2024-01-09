@@ -1,7 +1,7 @@
 # HASIL BELAJAR DI DICODING INDONESIA
 ## Learning Path: _Back End JAVASCRIPT_
 
-`#RRGBGB` BOLEH
+`#RRGBGB` `NUMENIDE`
 
 Jika ingin mendownload atau clone repo ini silahkan jalankan perintah di bawah ini agar package yang dibutuhkan bisa terinstall
 

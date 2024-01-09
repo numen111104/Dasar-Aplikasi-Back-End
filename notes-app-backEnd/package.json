@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./src/servers.js",
+    "start:prod": "NODE_ENV=production node ./src/servers.js",
+    "start:dev": "nodemon ./src/servers.js",
     "lint": "eslint ./src",
     "lint-fix": "eslint ./src --fix"
   },
